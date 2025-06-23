@@ -28,7 +28,7 @@ h1 {
 /* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
-  font-size:50%;
+  font-size:65%;  /* was 50% */
   padding-right:50px;
   text-align:right;
   text-decoration:none;
