@@ -28,7 +28,7 @@ h1 {
 /* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
-  font-size:65%;  /* was 50% */
+  font-size:65%;
   padding-right:50px;
   text-align:right;
   text-decoration:none;
@@ -49,7 +49,6 @@ h1 {
   text-align:left;
   vertical-align:top;
 }
-
 .off-day {
   background-color:#ddd;  /* very light gray */
 }
@@ -104,8 +103,8 @@ a:hover {
 a:hover::after {
   width: 88%;
 }
-<!-- to here -->
 
+<!-- World, International and National Days -->
 .intl-beer {
     background-color:#e8e193;  /* very soft yellow */
 }
