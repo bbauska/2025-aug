@@ -105,6 +105,9 @@ a:hover::after {
 }
 
 <!-- World, International and National Days -->
+.intl-beer-day {
+    background-color:#e893e8;  /* very soft magenta */
+}
 .intl-beer {
     background-color:#e893e8;  /* very soft magenta */
 }
@@ -112,7 +115,7 @@ a:hover::after {
     background-color:#c2e7e7;  /* light grayish cyan */
 }
 .icecream-sandwich {
-    background-color:#ff8080;  /* very light red */
+    background-color:#ffcdcd;  /* very pale red [pink tone] */
 }
 .friendship {
     background-color:#ffe6cd;  /* very pale orange */
@@ -124,7 +127,7 @@ a:hover::after {
     background-color:#cde6ff;  /* very pale blue */
 }
 .natl-rootbeer {
-    background-color:#ff9a9a;  /* pale red */
+    background-color:#ffe7e7;  /* very pale (mostly white) red */
 }
 .natl-lazy {
     background-color:#e6cdff;  /* very pale violet */
@@ -139,10 +142,10 @@ a:hover::after {
     background-color:#ffe6b4;  /* pale orange */
 }
 .black-cat {
-    background-color:#ff9a9a;  /* pale red */
+    background-color:#ffcdcd;  /* very pale red [pink tone] */
 }
 .world-humanitarian {
-    background-color:#9ab3ff;  /* pale blue */
+    background-color:#cdd9ff;  /* very pale blue */
 }
 .natl-radio {
     background-color:#98fb98;  /* very soft lime green */
@@ -163,7 +166,7 @@ a:hover::after {
     background-color:#9aff9a;  /* pale lime green */
 }
 .womens-equality {
-    background-color:#ff68ff;  /* very light magenta */
+    background-color:#ff9bff;  /* pale magenta */
 }
 .intl-bacon {
     background-color:#ccff9a;  /* pale green */
