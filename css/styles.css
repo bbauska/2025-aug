@@ -1,4 +1,4 @@
-<!-- css/styles of 2025-aug.bauska.org -->
+<!-- css/styles of github/bbauska/2025-08-aug making 2025-aug.bauska.org -->
 body {
   font-family:Helvetica;
 }
@@ -106,68 +106,69 @@ a:hover::after {
 
 <!-- World, International and National Days -->
 .intl-beer-day {
-    background-color:#e893e8;  /* very soft magenta */
+  background-color:#e893e8;  /* very soft magenta */
 }
 .intl-beer {
-    background-color:#e893e8;  /* very soft magenta */
+  background-color:#e893e8;  /* very soft magenta */
 }
 .natl-girlfriend {
-    background-color:#c2e7e7;  /* light grayish cyan */
+  background-color:#c2e7e7;  /* light grayish cyan */
 }
 .icecream-sandwich {
-    background-color:#ffcdcd;  /* very pale red [pink tone] */
+  background-color:#ffcdcd;  /* very pale red [pink tone] */
 }
 .friendship {
-    background-color:#ffe6cd;  /* very pale orange */
+  background-color:#ffe6cd;  /* very pale orange */
 }
 .obama {
-    background-color:#ffcde6;  /* very pale pink */
+  background-color:#ffcde6;  /* very pale pink */
 }
 .intl-cat {
-    background-color:#cde6ff;  /* very pale blue */
+  background-color:#cde6ff;  /* very pale blue */
 }
 .natl-rootbeer {
-    background-color:#ffe7e7;  /* very pale (mostly white) red */
+  background-color:#ffe7e7;  /* very pale (mostly white) red */
 }
 .natl-lazy {
-    background-color:#e6cdff;  /* very pale violet */
+  background-color:#e6cdff;  /* very pale violet */
 }
 .world-lizard {
-    background-color:#ffd9b4;  /* pale orange */
+  background-color:#ffd9b4;  /* pale orange */
 }
 .hayden-bd {
-    background-color:#95c7f3;  /* very soft blue */
+  background-color:#95c7f3;  /* very soft blue */
+  font-size: 110%;
 }
 .natl-tellajoke {
-    background-color:#ffe6b4;  /* pale orange */
+  background-color:#ffe6b4;  /* pale orange */
 }
 .black-cat {
-    background-color:#ffcdcd;  /* very pale red [pink tone] */
+  background-color:#ffcdcd;  /* very pale red [pink tone] */
 }
 .world-humanitarian {
-    background-color:#cdd9ff;  /* very pale blue */
+  background-color:#cdd9ff;  /* very pale blue */
 }
 .natl-radio {
-    background-color:#98fb98;  /* very soft lime green */
+  background-color:#98fb98;  /* very soft lime green */
 }
 .senior-citizens {
-    background-color:#a6f4ff;  /* pale cyan */
+  background-color:#a6f4ff;  /* pale cyan */
 }
 .natl-tooth-fairy {
-    background-color:#ffc0cb;  /* very pale red (pink) */
+  background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .natl-waffle {
-    background-color:#ffff9a;  /* pale yellow */
+  background-color:#ffff9a;  /* pale yellow */
 }
 .ukraine-independence {
-    background-color:#d3d3d3;  /* light gray */
+  background-color:#d3d3d3;  /* light gray */
 }
 .natl-dogday {
-    background-color:#9aff9a;  /* pale lime green */
+  background-color:#9aff9a;  /* pale lime green */
 }
 .womens-equality {
-    background-color:#ff9bff;  /* pale magenta */
+  background-color:#ff9bff;  /* pale magenta */
 }
 .intl-bacon {
-    background-color:#ccff9a;  /* pale green */
+  background-color:#ccff9a;  /* pale green */
 }
